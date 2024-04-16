@@ -660,7 +660,7 @@ Remember, the specific techniques used can vary depending on the nature of the d
     df = pd.read_csv('data.csv')
     print(df.describe())
     ```
-### **Working with Statistical Models**: Yes, statistical models are a key part of data analysis. For example, a linear regression model could be created in Python using the `statsmodels` library as follows:
+### **Working with Statistical Models**: statistical models are a key part of data analysis. For example, a linear regression model could be created in Python using the `statsmodels` library as follows:
 
 ```python
 import statsmodels.api as sm
