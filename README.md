@@ -685,13 +685,13 @@ print(results.summary())
 ```
 
 ### **Favorite Step in Data Analysis**: 
-As an AI, I don't have personal preferences. However, many data analysts enjoy the data modeling phase where they get to apply various statistical models and algorithms to the data to derive insights.
+Many data analysts enjoy the data modeling phase where they get to apply various statistical models and algorithms to the data to derive insights.
 
 ### **Knowledge of Statistics**: 
 Statistics is fundamental to data analysis. It's used in everything from data collection to interpretation of results. For example, understanding statistical concepts like mean, median, mode, standard deviation, correlation, regression, hypothesis testing, etc., is crucial for a data analyst.
 
 ### **Motivation to Become a Data Analyst**:
- As an AI, I don't have personal motivations. However, many people are drawn to data analysis because of the opportunity it provides to use analytical skills to solve real-world problems and make data-driven decisions.
+Many people are drawn to data analysis because of the opportunity it provides to use analytical skills to solve real-world problems and make data-driven decisions.
 
 ### **Handling Missing or Corrupted Data**: 
 This is typically handled through either deletion, imputation, or prediction. The choice depends on the nature of the data and the specific use case.
