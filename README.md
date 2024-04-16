@@ -30,6 +30,7 @@
       <li><a href="#map-reduce-and-its-purpose"> Purpose of Map-Reduce </a></li>
       <li><a href="#exploratory-data-analysis-and-why-it-is-important"> EDA and Why it is Important </a></li>
       <li><a href="#common-eda-techniques"> Common EDA techniques </a></li>
+      <li><a href="#faq"> FAQS </a></li>
   </ol>
 </details>
 
